@@ -1,27 +1,21 @@
 # E-Commerce-Website
 
-This project was bootstrapped with Create React App.
-
 This is a complete project with backend and frontend.
-In backend we use Strapi and for the payment gateway we use Stripe.
 
+Created an admin dashboard through Strapi Headless CMS that enabled the admin to add products, manage inventory, and view summary and customer data also used Stripe to facilitate secure and seamless transactions.
+
+Used Reactjs and SCSS for rapid UI building. 
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project client folder, you can run:
 
 ```bash
   npm start
 ```
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in your browser.
-
-The page will reload when you make changes.
-You may also see any errors in the console.
+In the project api folder, you can run:
 
 ```bash
   npm run develop
 ```
-Launches the backend of the project on the localhost.
-
