@@ -1,4 +1,4 @@
-# E-Commerce-Website
+# Smart Store 
 
 This is a complete project with backend and frontend.
 
